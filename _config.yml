@@ -58,16 +58,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Shashwitha Puttaswamy"
+  avatar : "/assets/images/23-1113OracleSC239364.jpg"
+  bio    : "Shashwitha Puttaswamy"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://ShashwithaPuttaswamy.github.io"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/shashwitha/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
